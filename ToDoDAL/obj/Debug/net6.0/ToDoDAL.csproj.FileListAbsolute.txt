@@ -1,0 +1,12 @@
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/bin/Debug/net6.0/ToDoDAL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/bin/Debug/net6.0/ToDoDAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/bin/Debug/net6.0/ToDoDAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/refint/ToDoDAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ToDoDAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoDAL/obj/Debug/net6.0/ref/ToDoDAL.dll

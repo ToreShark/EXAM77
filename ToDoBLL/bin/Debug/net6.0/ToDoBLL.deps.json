@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ToDoBLL/1.0.0": {
+        "dependencies": {
+          "ToDoDAL": "1.0.0"
+        },
+        "runtime": {
+          "ToDoBLL.dll": {}
+        }
+      },
+      "ToDoDAL/1.0.0": {
+        "runtime": {
+          "ToDoDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDoBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

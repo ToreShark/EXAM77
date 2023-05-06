@@ -1,0 +1,14 @@
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/bin/Debug/net6.0/ToDo.DAL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/bin/Debug/net6.0/ToDo.DAL.runtimeconfig.json
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/bin/Debug/net6.0/ToDo.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/bin/Debug/net6.0/ToDo.DAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/refint/ToDo.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ToDo.DAL.genruntimeconfig.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.DAL/obj/Debug/net6.0/ref/ToDo.DAL.dll

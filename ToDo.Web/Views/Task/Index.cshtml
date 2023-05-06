@@ -1,0 +1,65 @@
+@model IEnumerable<ToDo.DAL.Entities.TaskEntity>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Priority)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Priority)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @if (item.Status == ToDo.DAL.Enum.Status.New)
+                {
+                    <a asp-action="Open" asp-route-id="@item.Id" class="btn btn-primary">Open</a>
+                }
+                else if (item.Status == ToDo.DAL.Enum.Status.Open)
+                {
+                    <a asp-action="Close" asp-route-id="@item.Id" class="btn btn-warning">Close</a>
+                }
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                @if (item.Status == ToDo.DAL.Enum.Status.Closed)
+                {
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete123</a>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

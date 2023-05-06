@@ -1,0 +1,15 @@
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/bin/Debug/net6.0/ToDo.BLL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/bin/Debug/net6.0/ToDo.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/bin/Debug/net6.0/ToDo.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/bin/Debug/net6.0/ToDo.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/bin/Debug/net6.0/ToDo.DAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.csproj.CopyComplete
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/refint/ToDo.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ToDo.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDo.BLL/obj/Debug/net6.0/ref/ToDo.BLL.dll

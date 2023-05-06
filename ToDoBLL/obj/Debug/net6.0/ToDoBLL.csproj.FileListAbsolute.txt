@@ -1,0 +1,15 @@
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/bin/Debug/net6.0/ToDoBLL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/bin/Debug/net6.0/ToDoBLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/bin/Debug/net6.0/ToDoBLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/bin/Debug/net6.0/ToDoDAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/bin/Debug/net6.0/ToDoDAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.csproj.CopyComplete
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/refint/ToDoBLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ToDoBLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/eaxm7/ToDo/ToDoBLL/obj/Debug/net6.0/ref/ToDoBLL.dll
